@@ -8,5 +8,7 @@ public class DataBasedemoApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(DataBasedemoApplication.class, args);
+		
+		System.out.println("Hello");
 	}
 }
