@@ -12,8 +12,6 @@ public class DataBasedemoApplication {
 		System.out.println("This is for new Barnch Test Working");
 		System.out.println("added by vipin");
 		System.out.println("added by vikas");
-		System.out.println("added by vikas singh 11");
-		System.out.println("added by vikas singh 2200");
-		System.out.println("added by vikas singh 110000");
+		
 	}
 }
